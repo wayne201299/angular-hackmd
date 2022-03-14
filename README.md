@@ -1,5 +1,8 @@
 Angular Cheat Sheet
 ===
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+
 [![hackmd-github-sync-badge](https://hackmd.io/K2dxWaBVTzSSkuH_YksPwA/badge)](https://hackmd.io/K2dxWaBVTzSSkuH_YksPwA)
 
 記錄工作上使用Angular的過程
@@ -23,9 +26,10 @@ ngModule
 - [測試](/dzuq9R86TRio2pXQta3xjg)
 
 Built-in directives
+
 RxJS
 ---
-- [介紹](/mlFj4JRLT8GClSwk30mOeQ)
+- [核心觀念](/mlFj4JRLT8GClSwk30mOeQ)
 - [Operator](/z9oU43acQ8KL-e20-Cpw9Q)
 
 使用工具 🔧
